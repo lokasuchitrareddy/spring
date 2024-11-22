@@ -1,7 +1,7 @@
 <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.1.0</version> <!-- Use the desired version -->
+    <version>3.1.0</version> <!-- Use the desired spring boot version -->
 </parent>
 
 <dependency>
