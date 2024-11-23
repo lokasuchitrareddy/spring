@@ -31,7 +31,10 @@ Optimized version of spring which reduces manual configuration and provide a emb
 # Spring vs Springboot
 - research on your own and make a list.
 # Spring Initializer
-- It's a website provided by Spring to create a spring starter project. It's wrap everything you need like jdk, **maven**/gradle, dependencies(avoid snapshot versions)(spring-web, spring-jpa .. etc) and download it as a .war/.jar. Now import that folder to your IDE and you are all set with a web application. 
+- It's a website provided by Spring to create a spring starter project. It's wrap everything you need like jdk, **maven**/gradle, dependencies(avoid snapshot versions)(spring-web, spring-jpa .. etc) and download it as a .war/.jar. Now import that folder to your IDE and you are all set with a web application.
+
+![Screenshot (5)](https://github.com/user-attachments/assets/4b7c1290-3f10-495b-8bbc-1ca00e38077a)
+
 
 # How to run a spring boot application
 - spring boot app can run standalone(Embedded server) (your .jar file, open in IDE then run (or) with commandline java -jar youappname.jar)
@@ -57,6 +60,11 @@ When building your Java project,you may need additional JAR files.For example, S
 
 
 # Spring Project Structure
+
+![Screenshot (6)](https://github.com/user-attachments/assets/6ffa7d16-5d46-423d-91e2-7c1118475adf)
+
+
+
 
 
 
