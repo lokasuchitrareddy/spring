@@ -7,8 +7,17 @@
     1. Bean Factory
     2. Application Context
        - *We use Application Context in most of the cases, bcz it's internally extends Bean Factory.*
-- We have different ways of implementing (creating) IOC Container:
+- We have 2 different ways of implementing (creating) IOC Container:
     1. XML
     2. java
+### 1. Using XML Configuration
+           1. Create the class you wanted.(Eg: Demo)
+           2. Now we need to configure xml file. This is the file which we pass to IOC container & IOC container will create the object as we told(configured) in xml file.
+           3. Now pass the xml to IOC Container
+           
+    
+           
+
+  
       
   
